@@ -11,23 +11,25 @@
 /* Styling Next and Prev buttons */
 
 .owl-theme .owl-controls .owl-buttons div{
-	color: #FFF;
+
+	color: transparent;
 	display: inline-block;
 	zoom: 1;
 	*display: inline;/*IE7 life-saver */
 	margin: 5px;
 	padding: -2px 10px 3px 10px;
-	font-size: 12px;
+	font-size: 10px;
 	-webkit-border-radius: 30px;
 	-moz-border-radius: 30px;
 	border-radius: 0px;
-	background: #60B5F6;
+	background: rgba(4, 50, 84, 0.90);
 	filter: Alpha(Opacity=50);/*IE7 fix*/
-	opacity: 0.5;
+	opacity: 0;
 }
 /* Clickable class fix problem with hover on touch devices */
 /* Use it for non-touch hover action */
 .owl-theme .owl-controls.clickable .owl-buttons div:hover{
+	color: #e4a13d;
 	filter: Alpha(Opacity=100);/*IE7 fix*/
 	opacity: 1;
 	text-decoration: none;
