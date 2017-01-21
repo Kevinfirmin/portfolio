@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5320df74-adc7-49ec-94f4-18fcd881d0f7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pr3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pr3.html" afterPath="$PROJECT_DIR$/pr3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pr4.html" afterPath="$PROJECT_DIR$/pr4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pr5.html" afterPath="$PROJECT_DIR$/pr5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pr6.html" afterPath="$PROJECT_DIR$/pr6.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,8 +21,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="189" column="77" lean-forward="false" selection-start-line="189" selection-start-column="77" selection-end-line="189" selection-end-column="77" />
+            <state relative-caret-position="135">
+              <caret line="489" column="107" lean-forward="false" selection-start-line="489" selection-start-column="107" selection-end-line="489" selection-end-column="107" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -78,8 +74,8 @@
       <file leaf-file-name="pr6.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pr6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+            <state relative-caret-position="420">
+              <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -167,6 +163,7 @@
       <find>Photoshop</find>
       <find>port</find>
       <find>work</find>
+      <find>parki</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -319,12 +316,12 @@
       <workItem from="1484605630472" duration="154000" />
       <workItem from="1484772502580" duration="15636000" />
       <workItem from="1484847778801" duration="4463000" />
-      <workItem from="1484955784450" duration="3924000" />
+      <workItem from="1484955784450" duration="4399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28076000" />
+    <option name="totallyTimeSpent" value="28551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -642,8 +639,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pr6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        <state relative-caret-position="420">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -652,8 +649,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="189" column="77" lean-forward="false" selection-start-line="189" selection-start-column="77" selection-end-line="189" selection-end-column="77" />
+        <state relative-caret-position="135">
+          <caret line="489" column="107" lean-forward="false" selection-start-line="489" selection-start-column="107" selection-end-line="489" selection-end-column="107" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
