@@ -11,6 +11,7 @@
 /* Styling Next and Prev buttons */
 
 .owl-theme .owl-controls .owl-buttons div{
+	transform: rotate(180deg);
 	color: #FFF;
 	display: inline-block;
 	zoom: 1;
@@ -21,7 +22,7 @@
 	-webkit-border-radius: 30px;
 	-moz-border-radius: 30px;
 	border-radius: 0px;
-	background: #60B5F6;
+	background: rgba(4, 50, 84, 0.9);
 	filter: Alpha(Opacity=50);/*IE7 fix*/
 	opacity: 0.5;
 }

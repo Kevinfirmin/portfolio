@@ -1,12 +1,9 @@
-
-@import url("fontAwesome_icon_font.css");
-@import url("linea_icon_font.css");
+@import url("../font-awesome-4.7.0/css/font-awesome.min.css");
 @import url("./plugins/owl.carousel.css");
 @import url("./plugins/jquery.fs.tipper.css");
 @import url("./plugins/magnific-popup.css");
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
-@fa-font-path:   "font-awesome-4.7.0/fonts";
 
 /*
 * BASIC
@@ -2225,15 +2222,16 @@ o-flow-hidden {
     .intro-text-slider .owl-controls .owl-buttons .owl-next:before,
     .nf-carousel-theme .owl-controls .owl-buttons .owl-prev:before,
     .nf-carousel-theme .owl-controls .owl-buttons .owl-next:before {
-        background: rgba(51,51,51,0.8);
-/*        content:"";*/
+        background-color: white;
+        content:"";
         transform: rotate(45deg);
         -o-transform: rotate(45deg);
         -webkit-transform: rotate(45deg);
         -ms-transform: rotate(45deg);
         -moz-transform: rotate(45deg);
-        height:120%;
-        width:120%;
+        transform: scale(0.2);
+        height:100%;
+        width:110%;
         position:absolute;
         top:0;
         
@@ -2244,7 +2242,9 @@ o-flow-hidden {
         .nf-carousel-theme .owl-controls .owl-buttons .owl-prev:before
          {
             left:0;
-            margin-left:-60%;
+            margin-left:0%;
+            border-radius: 50px;
+            opacity: 0;
         }
         
         .content-carousel .owl-controls .owl-buttons .owl-next:before,
@@ -2253,7 +2253,9 @@ o-flow-hidden {
         .nf-carousel-theme .owl-controls .owl-buttons .owl-next:before
          {
             right:0;
-            margin-right:-60%;
+            margin-right:0%;
+            border-radius: 50px;
+            opacity: 0;
         }
 
         .content-carousel .owl-controls .owl-buttons .owl-prev:hover,
@@ -2326,11 +2328,11 @@ o-flow-hidden {
     .image-carousel .owl-controls .owl-buttons .owl-next,
     .intro-text-slider .owl-controls .owl-buttons .owl-prev,
     .intro-text-slider .owl-controls .owl-buttons .owl-next {
-        width: 51px;
+        width: 50px;
         height: 51px;
-        line-height: 57px;
-        font-size: 21px;
-        margin-top: -25px;
+        line-height: 50px;
+        font-size: 10px;
+        margin-top: -66px;
     }
 
     .content-carousel .owl-controls .owl-buttons .owl-prev,
@@ -2709,8 +2711,7 @@ ul.portfolio-btn-wraper, .portfolio-btn-wraper {
 
     .accordion > .accordion-title > a:after, .toggle > .toggle-title > a:after {
         color: #333;
-        content: "";
-        font-family: "FontAwesome";
+        content: "+";
         font-size: 15px;
         font-style: normal;
         font-variant: normal;
@@ -2757,7 +2758,7 @@ ul.portfolio-btn-wraper, .portfolio-btn-wraper {
 
             .accordion > .accordion-title > a.active:after, .toggle > .toggle-title > a.active:after {
                 /*color: #fff;*/
-                content: "";
+                content: "+";
             }
 
     .accordion > .accordion-content, .toggle > .toggle-content {
