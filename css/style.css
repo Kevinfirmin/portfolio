@@ -2224,7 +2224,7 @@ o-flow-hidden {
     .nf-carousel-theme .owl-controls .owl-buttons .owl-next:before {
         background-color: white;
         content:"";
-        transform: rotate(45deg);
+        transform: rotate(180deg);
         -o-transform: rotate(45deg);
         -webkit-transform: rotate(45deg);
         -ms-transform: rotate(45deg);
@@ -2267,7 +2267,7 @@ o-flow-hidden {
         .nf-carousel-theme .owl-controls .owl-buttons .owl-prev:hover,
         .nf-carousel-theme .owl-controls .owl-buttons .owl-next:hover {
             /*background: #fff;*/
-            color: #043254;
+            color: #e4a13d;
         }
 
     .content-carousel .owl-controls .owl-buttons .owl-next,

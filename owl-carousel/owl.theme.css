@@ -11,7 +11,7 @@
 /* Styling Next and Prev buttons */
 
 .owl-theme .owl-controls .owl-buttons div{
-	transform: rotate(180deg);
+	/*transform: rotate(180deg);*/
 	color: #FFF;
 	display: inline-block;
 	zoom: 1;
